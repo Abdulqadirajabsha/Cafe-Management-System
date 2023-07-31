@@ -1,4 +1,4 @@
-# Cafe-Management-System  LIVE DEMO
+# Cafe-Management-System  (LIVE DEMO)
 
 Cafe Management System is a Web-based application designed to simplify and streamline the process of managing customer's data in Cafe. It provides various features to help efficiently handle customer-related tasks.
 The system offers functionalities such as adding, updating, and deleting records. Its user-friendly interface makes it easy for anyone to personnelly access and manage customer data effectively.
